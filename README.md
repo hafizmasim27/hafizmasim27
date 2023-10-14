@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafizmasim27
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 
 <!---
 hafizmasim27/hafizmasim27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
